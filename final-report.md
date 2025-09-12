@@ -1,7 +1,7 @@
 # C4GT DMP 2025 | Sugar Labs
 
 <p align="center">
-  <img src="/home/iamceo/open-source/gsoc-dmp-2025/assets/c4gt_DMP.webp" height="200px" />
+  <img src="/assets/c4gt_DMP.webp" height="200px" />
   <img src="assets/sl-logo.png" height="200px"/>
 </p>
 
